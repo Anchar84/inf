@@ -6,6 +6,7 @@ import java.util.Scanner;
 /*
 2.14.1.5
  */
+//TODO: добавить тект задачи
 public class Task_27
 {
     public static void main(String[] args)
